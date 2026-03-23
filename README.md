@@ -224,7 +224,7 @@ python3 -m uvicorn server:app --host 0.0.0.0 --port 5005 --log-level info
 如果你要把这个目录作为一个全新的开源仓库发布，最简单的方式是：
 
 ```bash
-cd /Volumes/Fran/feishu_lan_server/feishu-lan-server-open
+cd /path/to/feishu-lan-server-open
 git init
 git add .
 git commit -m "Initial open source release"
@@ -237,7 +237,7 @@ git push -u origin main
 
 1. 打开 GitHub
 2. 点击右上角 `New repository`
-3. 仓库名可用 `feishu-lan-server`
+3. 仓库名可用 `feishu-lan-server-open`
 4. 选择 `Public`
 5. 不要勾选自动创建 README、`.gitignore` 或 License
 6. 创建后复制仓库地址，替换上面命令里的 `<你的 GitHub 仓库地址>`
