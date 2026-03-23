@@ -1,0 +1,16 @@
+[
+    {
+        "icon": "💬",
+        "name": "示例群聊",
+        "receiveId": "oc_xxx_your_chat_id",
+        "atUserId": "",
+        "botId": "bot_default"
+    },
+    {
+        "icon": "👤",
+        "name": "示例私聊",
+        "receiveId": "ou_xxx_your_open_id",
+        "atUserId": "",
+        "botId": ""
+    }
+]

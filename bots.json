@@ -1,0 +1,8 @@
+[
+    {
+        "id": "bot_default",
+        "name": "示例机器人",
+        "appId": "cli_xxx_your_app_id",
+        "appSecret": "your_app_secret"
+    }
+]

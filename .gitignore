@@ -1,0 +1,10 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.feishu_user_token.json
+.feishu_token_*.json
+server.log
+.claude/
+.DS_Store
